@@ -365,9 +365,15 @@ The demonstration video should be approximately 3–5 minutes and show:
 5. Synchronization after reconnecting.
 6. Leave validation and submission.
 
+
+
+https://github.com/user-attachments/assets/5eed24f2-ae5b-4529-b8e3-6c2842187249
+
+
+
 ## 16. Time Spent
 
-**Total development time:** [Enter your actual development hours]
+**Total development time:** [6]
 
 The implementation includes Flutter UI development, GetX state management, API integration, GPS attendance validation, local persistence, connectivity handling, synchronization, leave management, testing, and documentation.
 
